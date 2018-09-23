@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\i_kir\source\repos\worktask1\worktask1\main.cpp(27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  reader.cpp
+  writer.cpp
+  Создание кода
+  All 389 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  WorkTask1.vcxproj -> C:\Users\i_kir\source\repos\WorkTask1\x64\Release\WorkTask1.exe
